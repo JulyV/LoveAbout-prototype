@@ -1,1 +1,1 @@
-# LoveAbout-prototype, website adress loveabout.org
+# LoveAbout-prototype (styles only), website address loveabout.org
